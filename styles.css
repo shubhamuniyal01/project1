@@ -1,0 +1,86 @@
+#text{
+    font-family: sans-serif;
+    font-size: 20px;
+    margin: 35px;
+    line-height: 1.4em;
+}
+
+#b1{
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    
+}
+#b2{
+    font-size: 20px;
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+    margin-top: 30px;
+    margin-left: 35px;
+    
+}
+#dnd{
+    line-height: 0.5em;
+    font-size: 20px;
+    margin-left: 35px;
+    width: 90%;
+    height: fit-content;
+    border: 4px;
+    border-style: dashed;
+    border-radius: 5%;
+    text-align: center;
+    padding-top: 95px;
+    padding-bottom: 95px;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 20% 3% 70%;
+}
+.gd{
+    margin-left: 170px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-row-gap : 20px;
+    grid-column-gap : 10px
+}
+
+.b{
+    display: inline-block;
+    text-align: start;
+    
+    font-family: sans-serif;
+    border: 0px;
+    border-radius: 10px;
+    color: white;
+    width: 400px;
+    height: fit-content;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: sans-serif;
+    font-size: 20px;
+    
+}
+
+hr{
+    margin-top: 30px;
+}
+
+
+.line{
+    border-left: 1px solid black;
+    height: 135px;
+    margin-right: 100px;
+}
+.or{
+    margin-left: 100px;
+}
+.ortext{
+    width: fit-content;
+    height: fit-content;
+   
+}
